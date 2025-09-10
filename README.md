@@ -1,67 +1,53 @@
-# ArthurSchuster
-
-<h1 align="center">🚀 Olá, eu sou o [SEU NOME] 👋</h1>
-
 <p align="center">
-  Founder @ Startup de IA para Marketing Automático • MIT (AI) • Harvard CODE • Full-Stack Developer • English (Fluent) • Deutsch (Intermediate)
+  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
+  <h2 align="center">GitHub Readme Stats</h2>
+  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
 
----
-
-## 👨‍💻 Sobre mim
-- Transformo ideias em código e impacto.  
-- Construo agentes de IA para automação de marketing.  
-- Estudante MIT (AI) & Harvard CODE — focado em produtos que vendem.
-
----
-
-## ⚡ Tecnologias & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs" alt="tech icons" />
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-282C34?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zapier-F15A24?style=for-the-badge&logo=zapier&logoColor=white" />
-</p>
-
----
-
-## 🚀 Projetos em destaque
-- **🤖 Agente IA-Marketing** — cria, adapta e agenda conteúdo automaticamente.  
-- **📊 Dashboard Ads AI** — integra Google Ads com IA para insights automáticos.  
-- **🌍 Micro SaaS Automations** — automações que vendem.
-
-*(Confira os repositórios fixados abaixo)*
-
----
-
-<p align="center">
-  <a href="https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9" target="_blank">
-    <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://upload.wikimedia.org/wikipedia/pt/c/ce/Oasis_-_Definitely_Maybe.jpg)" 
-         alt="Oasis - Live Forever" 
-         width="250" 
-         style="border-radius:50%; box-shadow:0 0 20px rgba(0,0,0,0.5);" />
+  <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+  </a>
+  <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+    <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
   </a>
 </p>
-<p align="center">🎧 Oasis – <strong>Live Forever</strong> (1994)</p>
-
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
-</p>
+## GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)](https://github.com/SEU_USUARIO)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=radical)](https://github.com/SEU_USUARIO)
+
+### WakaTime Stats
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKATIME&theme=radical)](https://wakatime.com/@SEU_WAKATIME)
 
 ---
 
-## 🌐 Conecte-se
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## GitHub Extra Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_1)](https://github.com/SEU_USUARIO/REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_2)](https://github.com/SEU_USUARIO/REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_3)](https://github.com/SEU_USUARIO/REPO_3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_4)](https://github.com/SEU_USUARIO/REPO_4)
 
 ---
 
-<p align="center">💡 “Não escrevo apenas linhas de código, escrevo linhas de futuro.”</p>
+<p align="center">Love this project? Consider <a href="https://www.paypal.me/anuraghazra">donating</a>!</p>
