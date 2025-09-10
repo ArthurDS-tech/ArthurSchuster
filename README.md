@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9" target="_blank">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" 
+    <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://upload.wikimedia.org/wikipedia/pt/c/ce/Oasis_-_Definitely_Maybe.jpg)" 
          alt="Oasis - Live Forever" 
          width="250" 
          style="border-radius:50%; box-shadow:0 0 20px rgba(0,0,0,0.5);" />
