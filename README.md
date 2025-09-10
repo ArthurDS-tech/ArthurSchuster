@@ -35,7 +35,6 @@
 
 ---
 
-## 🎧 Agora tocando
 <p align="center">
   <a href="https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/OasisDefinitelyMaybealbumcover.jpg" 
@@ -44,7 +43,6 @@
          style="border-radius:50%; box-shadow:0 0 20px rgba(0,0,0,0.5);" />
   </a>
 </p>
-
 <p align="center">🎧 Oasis – <strong>Live Forever</strong> (1994)</p>
 
 ---
